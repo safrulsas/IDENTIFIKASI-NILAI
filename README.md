@@ -1,5 +1,5 @@
 # IDENTIFIKASI-NILAI
-=======================================================================================
+=====================================================================================
 
 Fitur Pertama 🎨 :
 1. Menambah beberapa kali memasukkan nama siswa
@@ -13,7 +13,7 @@ Fitur Kedua 🎨 :
 4. Melihat tier siswa
 5. Keluar dari program
 
-=======================================================================================
+=====================================================================================
 
 Catatan 📋 :
 
@@ -22,9 +22,10 @@ semester atau olimpiade. cara pakai nya dengan memasukkan nama siswa dan nilai s
 
 Untuk melihat siswa lulus atau tidak nanti diberikan beberapa pilihan nomor untuk di input, cara melihat tier dan nilai kelulusan tekan nomor 4 untuk melihat nilainya.
 
-=======================================================================================
+=====================================================================================
 
 Funfact 😂 :
+
 Program ini hanya untuk memplajari array dictionary, function, if dan else, looping, dan cara menjalankan program ini dengan baik.. Program ini sangat tidak efisien, maka dari itu saya sarankan menggunakan excel untuk mempermudah mengidentifikasi nilai siswa :)
 
 
